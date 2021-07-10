@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi people! 
+
+My name is Jaime and I work on analytics development and implementatin projects. 
